@@ -12,9 +12,10 @@
 
 ---
 
-💻 Vista de Escritorio | 📱 Vista Móvil |
+💻 Vista de Escritorio (Desktop) | 📱 Vista Móvil (Mobile) |
 | :---: | :---: |
-| ![Escritorio](https://raw.githubusercontent.com/jleival/hito-1-pizzeria-mamma-mia/main/src/assets/img/escritorio.png) | ![Móvil](https://raw.githubusercontent.com/jleival/hito-1-pizzeria-mamma-mia/main/src/assets/img/movil.png)
+| <img src="https://raw.githubusercontent.com/jleival/hito-1-pizzeria-mamma-mia/main/src/assets/img/escritorio.png" alt="Escritorio" width="600"> | <img src="https://raw.githubusercontent.com/jleival/hito-1-pizzeria-mamma-mia/main/src/assets/img/movil.png" alt="Móvil" width="300"> |
+| *Diseño responsivo para pantallas grandes* | *Vista optimizada para dispositivos móviles* |
 
 ---
 
