@@ -12,6 +12,12 @@
 
 ---
 
+💻 Vista de Escritorio | 📱 Vista Móvil |
+| :---: | :---: |
+| ![Escritorio](https://raw.githubusercontent.com/jleival/hito-1-pizzeria-mamma-mia/main/src/assets/img/escritorio.png) | ![Móvil](https://raw.githubusercontent.com/jleival/hito-1-pizzeria-mamma-mia/main/src/assets/img/movil.png)
+
+---
+
 ## 🚀 Vista Previa (Preview)
 
 > Puedes revisar el despliegue en línea de la aplicación haciendo clic en el siguiente enlace:  
